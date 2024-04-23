@@ -3,9 +3,9 @@
  * Created on: 19/04/2024
  */
 using EmployeeLibrary.Models;
-using EmployeeManagementSystem.Repository;
+using EmployeeLibrary.Repository;
 
-namespace EmployeeManagementSystem.BusinessLogic;
+namespace EmployeeLibrary.BusinessLogic;
 
 public class EmployeeService(IEmployeeRepository employeeRepository)
 {

@@ -4,7 +4,7 @@
  */
 using EmployeeLibrary.Models;
 
-namespace EmployeeManagementSystem.Repository;
+namespace EmployeeLibrary.Repository;
 
 public interface IEmployeeRepository
 {
